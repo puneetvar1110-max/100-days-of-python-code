@@ -1,5 +1,5 @@
 # Day 9: 100 Days of Python
-# Topic: Factorial
+# Topic: Factorial of Any Number
 # Description: Calculate the factorial of a number.
 
 number = int(input("Enter the number: "))
