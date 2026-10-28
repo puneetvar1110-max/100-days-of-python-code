@@ -1,0 +1,16 @@
+# Day 13: 100 Days of Python
+# Topic: Sum of Digits
+# Description: Calculate the sum of all digits in an integer.
+
+number = int(input("Enter the number: "))
+add = 0
+
+if number < 0:
+    number = -number  # Convert negative to positive
+
+while number != 0:
+    last = number % 10  # Get last digit
+    add += last  # Add digit to sum
+    number = number // 10  # Remove last digit
+
+print("Sum of digits:", add)

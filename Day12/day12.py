@@ -1,4 +1,3 @@
-
 # Day 12: 100 Days of Python
 # Topic: Reverse a Number
 # Description: Reverse an integer using a while loop.
