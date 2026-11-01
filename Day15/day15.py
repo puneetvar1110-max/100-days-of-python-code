@@ -1,4 +1,4 @@
-# Day 17: 100 Days of Python
+# Day 15: 100 Days of Python
 # Topic: Armstrong Number
 # Description: Check whether a number is an Armstrong number or not.
 
