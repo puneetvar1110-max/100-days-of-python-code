@@ -1,4 +1,4 @@
-# Day 25: 100 Days of Python
+# Day 23: 100 Days of Python
 # Topic: Neon Number
 # Description: Check whether a number is a Neon Number or not.
 #
