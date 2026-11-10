@@ -1,4 +1,4 @@
-# Day 26: 100 Days of Python
+# Day 24: 100 Days of Python
 # Topic: Neon Numbers in a Range
 # Description: Find all Neon Numbers within a given range.
 #
